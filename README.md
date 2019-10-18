@@ -1,2 +1,2 @@
-# contosofinanceweb
-Sample for the Contoso Finance Web Site
+# AzureDemo WebApp
+Sample for the AzureDemo Web Site
